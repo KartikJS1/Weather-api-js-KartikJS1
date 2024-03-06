@@ -1,0 +1,25 @@
+{
+  "name": "weather-npm-kartikjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikJS1/Weather-api-js-KartikJS1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "KARTIK RAMESH CHAVANJS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KartikJS1/Weather-api-js-KartikJS1/issues"
+  },
+  "homepage": "https://github.com/KartikJS1/Weather-api-js-KartikJS1#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
